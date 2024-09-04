@@ -10,5 +10,9 @@ Ex:
 	$=\left(1,4,-2\right)$
 2) $u=\left(1,2\right),v=\left(-3,0\right)$
 	$u+v=\left(-2,2\right)$
-Skal
+
+Skalärmultiplikation
+Låt $v$ vara en vektor i $R^{^{}n}$ och $\lambda$ ett reellt tal, då defineras $\lambda v$ som: 
+
+
 
